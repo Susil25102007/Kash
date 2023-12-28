@@ -1,6 +1,3 @@
-
-
-
 import re
 from os import environ,getenv
 from Script import script 
@@ -88,9 +85,7 @@ LANGUAGES = ["malayalam", "mal", "tamil", "tam" ,"english", "eng", "hindi", "hin
 SEASONS = ["season 1" , "season 2" , "season 3" , "season 4", "season 5" , "season 6" , "season 7" , "season 8" , "season 9" , "season 10"]
 
 
-                           # Don't Remove Credit @movie_file_20
-                           # Subscribe YouTube Channel For Amazing Bot @movie_file_20
-                           # Ask Doubt on telegram @KingVJ01
+                        
 
 
 # Online Stream and Download
